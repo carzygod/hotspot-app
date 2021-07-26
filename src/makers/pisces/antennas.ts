@@ -1,8 +1,8 @@
 import { MakerAntenna } from '../antennaMakerTypes'
 
-const BOBCAT = {
+const Pisces = {
   name: 'Pisces Miner (All)',
   gain: 4,
 } as MakerAntenna
 
-export default { BOBCAT }
+export default { Pisces }
